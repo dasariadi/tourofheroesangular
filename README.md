@@ -1,6 +1,6 @@
-# AngularTourOfHeroes
+# Angular Tour Of Heroes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.8.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.8. Practicing Angular 10
 
 ## Development server
 
